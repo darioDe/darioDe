@@ -7,7 +7,6 @@ My skills include:
 - HTML, CSS, and JavaScript
 - React, Tailwind, SASS, and Bootstrap
 - Web design and user interface design
-- Performance optimization and page load time
 
 If you have a project in mind and think I could be a good fit, feel free to contact me via email or message me on my Github page.
 
