@@ -4,7 +4,7 @@ I'm always looking for opportunities to learn new skills and technologies. I lik
 
 My skills include:
 
-- HTML, CSS, and JavaScript
+- HTML, CSS, JavaScript and TypeScript
 - React, Tailwind, SASS, and Bootstrap
 - Web design and user interface design
 
